@@ -1,1 +1,1 @@
-ferhat-context-2.netlify.app
+https://ferhat-context-2.netlify.app/
